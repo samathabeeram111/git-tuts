@@ -1,0 +1,1 @@
+print ("samatha + Entri course")
